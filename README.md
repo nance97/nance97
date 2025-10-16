@@ -52,6 +52,6 @@ I'm especially interested in bridging **research and production environments** �
 
 ## 📫 Get in Touch  
 📧 [Email](mailto:nancy.kalaj@studenti.unitn.it)  
-🔗 [LinkedIn](www.linkedin.com/in/nancy-kalaj-0028b8298)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nancy-kalaj-0028b8298)
 
 ---
