@@ -25,7 +25,7 @@ I'm especially interested in bridging **research and production environments** �
 - [**Few-Shot Adaptation of CLIP**]()  
   _Efficient cross-modal transfer through lightweight alignment of text–image embeddings under domain shift._  
 
-- [**Hive AlphaZero Agent**]([https://github.com/your-username/hive-alphazero-agent](https://github.com/DinoCappe/hexa_logic#))  
+- [**Hive AlphaZero Agent**](https://github.com/DinoCappe/hexa_logic#)  
   _An AlphaZero-style reinforcement learning framework for the board game Hive, integrating convolutional networks with Monte Carlo Tree Search._  
 
 ---
@@ -36,7 +36,7 @@ I'm especially interested in bridging **research and production environments** �
 ---
 
 ## 📫 Get in Touch  
-📧 [nancy.kalaj@email.com](mailto:nancy.kalaj@studenti.unitn.it)  
+📧 [Email](mailto:nancy.kalaj@studenti.unitn.it)  
 🔗 [LinkedIn](www.linkedin.com/in/nancy-kalaj-0028b8298)  
 
 ---
